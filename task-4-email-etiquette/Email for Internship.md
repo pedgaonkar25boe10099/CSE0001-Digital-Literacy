@@ -1,13 +1,17 @@
-**SUBJECT**:- Request for extension of the assignment.
+**SUBJECT**:- Interest in summer internship opportunity
 
-**TO**:- professor@gmail.com  
+**TO**:- coordinator@gmail.com  
 **FROM**:- XYZ@gmail.com
 
-Dear Professor,
+Dear Coordinator,
 
-I am writing this email for the request of extending the deadline of assignment of the problems given which is currently due on the date **26 Feb 2026**.   
-  Due to family emergency on my side, it's not possible for me to complete the assignment within the given deadline. Therefore for my academic record to be conserved, it's my kind request for the extension of the date.
+My name is **Pedgaonkar Pranshu Sanjay** and I am currently a 4th year student at **VIT Bhopal University** studying **BioEngineering** . I am writing to express my interest in a summer internship which is about radio astronomy.
+
+ With my background in writing research papers and statistical machine analysis of the data, I am eager to contribute to your team’s goals while further developing my professional skills. 
+
+I have attached my resume and cover letter for your review. I would welcome to this opportunity and seek of learning new things.
+
 
 BEST REGARDS,  
-Pedgaonkar Pranshu Sanjay 
+Pedgaonkar Pranshu Sanjay
 25BOE10099
